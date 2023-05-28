@@ -3,9 +3,7 @@
  
 projeto cocluido e feito em aula
 # Projeto Words
-<div align="center">
-<img src="https://github.com/Gustavoleiter/Words/asset/1.png" width="300px" heigth="500px">
- ![Descrição da imagem](asset/1.png)
+<div align="left">
 <img src="asset/1.png">
 </div>
 🔧<b>Funcionalidade</b>:<br>projeto com o objetico de usar uma recycler view para exibir em ordem alfabetica titulos de jogos listados dentro de uma array 
