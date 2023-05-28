@@ -6,4 +6,4 @@
     android:layout_height="wrap_content"
     android:layout_margin="4dp"
     android:padding="8dp"
-    app:backgroundTint="@android:color/system_accent1_900" />
+     />
