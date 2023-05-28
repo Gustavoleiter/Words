@@ -1,6 +1,6 @@
 
 <div align="left">
-<img src="asset/1.png" width=" 100px" heigth="100px"># Projeto Words
+<img src="asset/1.png" width=" 100px" heigth="100px"> <h1><b># Projeto Words<b><h1>
 </div>
 🔧<b>Funcionalidade</b>:<br>projeto com o objetico de usar uma recycler view para exibir em ordem alfabetica titulos de jogos listados dentro de uma array 
 em que sua função sera redirecionar ao clicar no titula para uma busca ao google do mesmo 
