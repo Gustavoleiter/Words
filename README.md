@@ -1,7 +1,7 @@
 
 <div class="roll">
   <div align="left">
-    <img src="asset/1.png" width=" 100px" heigth="100px"> <b># Projeto Words<b>
+    <p style="font-size = 38px"><img src="asset/1.png" width=" 100px" heigth="100px"> <b># Projeto Words<b>
   </div>
 </div>
     
