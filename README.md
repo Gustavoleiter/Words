@@ -8,7 +8,7 @@
 🔧<b>Funcionalidade</b>:<br>projeto com o objetico de usar uma recycler view para exibir em ordem alfabetica titulos de jogos listados dentro de uma array 
 em que sua função sera redirecionar ao clicar no titula para uma busca ao google do mesmo 
       <br>
-      <img src="asset/2.jpeg" width=" 400px" heigth="800px" align="center">
+      <center><img src="asset/2.jpeg" width=" 400px" heigth="800px"></center>
 <hr>
 📰<b>Informações</b>: <br> projeto realizado em sala de aula, aplicando funções e a RecyclerView. Kotlin - Android Studio - 24/05/23
 
